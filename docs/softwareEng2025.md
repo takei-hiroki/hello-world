@@ -1,3 +1,9 @@
+---
+layout: page
+title: "software Eng. lecture report"
+permalink: /docs/softwareEng2025
+---
+
 # ソフトウェア工学レポート
 ## 第1回～第6回の講義まとめ
 
